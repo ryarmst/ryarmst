@@ -1,13 +1,17 @@
-### Hi there 👋
+<div align="center">
 
-I'm [Ryan](https://ryarmst.ca).
+# Ryan
 
-I am an application security consultant, teacher, and manager.
+### Application Security Consultant · Teacher · Manager
 
-Check out my application security newsletter [Rigorous AppSec](https://rigorousappsec.beehiiv.com/).
+<a href="https://ryarmst.ca"><img src="https://img.shields.io/badge/WEBSITE-000000?style=flat-square&logoColor=white" /></a>
+<a href="https://rigorousappsec.beehiiv.com/"><img src="https://img.shields.io/badge/NEWSLETTER-Rigorous%20AppSec-1a1a1a?style=flat-square" /></a>
+<a href="https://www.youtube.com/channel/UC2Ibt6qz7PWelboCtR3aKLQ"><img src="https://img.shields.io/badge/YOUTUBE-Subscribe-1a1a1a?style=flat-square" /></a>
+<a href="https://www.linkedin.com/in/ryarmst/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-1a1a1a?style=flat-square" /></a>
 
-I make short videos on a variety of offensive application security topics that you can [checkout on YouTube](https://www.youtube.com/channel/UC2Ibt6qz7PWelboCtR3aKLQ).
+### Where to find my work
 
-I also write the occasional blog post on [my website.
-
-Please feel free to reach me on [LinkedIn](https://www.linkedin.com/in/ryarmst/).
+| | |
+|---|---|
+| **Newsletter** | [Rigorous AppSec](https://rigorousappsec.beehiiv.com/) — writing for practicing security professionals |
+| **Video** | [YouTube](https://www.youtube.com/channel/UC2Ibt6qz7PWelboCtR3aKLQ) — short-form videos on application security topics |
