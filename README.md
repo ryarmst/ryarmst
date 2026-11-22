@@ -2,7 +2,7 @@
 
 # Ryan
 
-### Application Security Professional · Teacher · Manager
+### Application Security
 
 Presently AppSec Lead at Forward Financing. Formerly consulting at Digital Boundary Group. 
 
