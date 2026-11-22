@@ -4,7 +4,7 @@
 
 ### Application Security
 
-Presently AppSec Lead at Forward Financing. Formerly consulting at Digital Boundary Group. 
+Presently AppSec Lead at Forward Financing. Formerly AppSec Manager at Digital Boundary Group. 
 
 <a href="https://ryarmst.ca"><img src="https://img.shields.io/badge/WEBSITE-000000?style=flat-square&logoColor=white" /></a>
 <a href="https://rigorousappsec.beehiiv.com/"><img src="https://img.shields.io/badge/NEWSLETTER-Rigorous%20AppSec-1a1a1a?style=flat-square" /></a>
